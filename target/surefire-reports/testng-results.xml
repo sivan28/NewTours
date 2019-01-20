@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25997" started-at="2019-01-15T23:32:20 PST" finished-at="2019-01-15T23:32:46 PST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25997" started-at="2019-01-15T23:32:20 PST" finished-at="2019-01-15T23:32:46 PST">
+      <class name="automation.selenium.tests.RegisterTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.selenium.tests.RegisterTest@68c4039c]" name="setUp" is-config="true" duration-ms="3967" started-at="2019-01-15T23:32:20 PST" finished-at="2019-01-15T23:32:24 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testRegister(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automation.selenium.tests.RegisterTest@68c4039c]" name="testRegister" duration-ms="1651" started-at="2019-01-15T23:32:24 PST" data-provider="testData" finished-at="2019-01-15T23:32:26 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Siva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4.058509855E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[snachu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Fremont]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[San Farncisco]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[California]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[94105.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[UNITED STATES]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegister -->
+        <test-method status="PASS" signature="testRegister(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automation.selenium.tests.RegisterTest@68c4039c]" name="testRegister" duration-ms="1510" started-at="2019-01-15T23:32:26 PST" data-provider="testData" finished-at="2019-01-15T23:32:27 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Francis]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[M]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[454545444]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[fmartin]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[sunnyvale]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[sunnyvale]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[California]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[94544.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[GERMANY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegister -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automation.selenium.tests.RegisterTest@68c4039c]" name="tearDown" is-config="true" duration-ms="640" started-at="2019-01-15T23:32:27 PST" finished-at="2019-01-15T23:32:28 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automation.selenium.tests.RegisterTest -->
+      <class name="automation.selenium.tests.BookFlightTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.selenium.tests.BookFlightTest@59f99ea]" name="setUp" is-config="true" duration-ms="3399" started-at="2019-01-15T23:32:36 PST" finished-at="2019-01-15T23:32:39 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testBookFlight()[pri:0, instance:automation.selenium.tests.BookFlightTest@59f99ea]" name="testBookFlight" duration-ms="5875" started-at="2019-01-15T23:32:39 PST" finished-at="2019-01-15T23:32:45 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBookFlight -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automation.selenium.tests.BookFlightTest@59f99ea]" name="tearDown" is-config="true" duration-ms="616" started-at="2019-01-15T23:32:45 PST" finished-at="2019-01-15T23:32:46 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automation.selenium.tests.BookFlightTest -->
+      <class name="automation.selenium.tests.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.selenium.tests.LoginTest@ae45eb6]" name="setUp" is-config="true" duration-ms="3355" started-at="2019-01-15T23:32:28 PST" finished-at="2019-01-15T23:32:31 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:automation.selenium.tests.LoginTest@ae45eb6]" name="testLogin" duration-ms="3902" started-at="2019-01-15T23:32:31 PST" finished-at="2019-01-15T23:32:35 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:automation.selenium.tests.LoginTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="646" started-at="2019-01-15T23:32:35 PST" finished-at="2019-01-15T23:32:36 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automation.selenium.tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
